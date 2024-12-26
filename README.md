@@ -14,7 +14,7 @@ Setup Instructions
 1. Clone the repository: git clone (link unavailable)
 2. Build the project: mvn clean package
 3. Run the application: java -jar target/Ecommerce_Application-0.0.1-SNAPSHOT.jar
-4. Access the API documentation: http://localhost:8080/swagger-ui/
+4. Access the API documentation: http://localhost:8080/swagger-ui.html
 
 API Documentation
 User Authentication
